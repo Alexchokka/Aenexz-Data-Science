@@ -6,4 +6,4 @@ A beginner-friendly Python repository containing simple programs and functions s
   ## Task4
 Data cleaning is the process of identifying and fixing errors, missing values, and inconsistencies in data to make it accurate and reliable.
   ## Task5
-Implement multiple linear regression model on calforniaHousing datatset
+Take the dataset and then apply knn model to predict the category
